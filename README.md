@@ -1,2 +1,2 @@
 # Bubble-sort
-Bubble sort em C
+Bubble sort com C
